@@ -14,11 +14,11 @@ It is ideal for:
 - Data Science Projects – time-series analysis, clustering, and anomaly detection
 
 ## Key Highlights
-✔ 8,641 records (10-second intervals for 24 hours)
-✔ Latitude, longitude, altitude, speed, hemisphere, and region included
-✔ Covers approximately 16 complete ISS orbits (each ~90 minutes)
-✔ Geolocation enrichment: region/ocean name beneath the ISS
-✔ Released under CC0 (Public Domain) – free for any use
+- 8,641 records (10-second intervals for 24 hours)
+- Latitude, longitude, altitude, speed, hemisphere, and region included
+- Covers approximately 16 complete ISS orbits (each ~90 minutes)
+- Geolocation enrichment: region/ocean name beneath the ISS
+- Released under CC0 (Public Domain) – free for any use
 
 ## File Description
 ### iss_data.csv
