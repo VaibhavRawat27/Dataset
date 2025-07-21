@@ -1,4 +1,4 @@
-# README – ISS Real-Time Tracker (10s Interval Dataset)
+# ISS Real-Time Tracker (10s Interval Dataset)
 
 ## Title
 ISS Real-Time Tracker – 10s Interval Dataset
